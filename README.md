@@ -87,7 +87,7 @@ AverageSales = SUM(Sales[Revenue]) / DISTINCTCOUNT(Sales[CustomerID])
 ---
 
 ## 🤝 **Connect With Me**  
-💼 **LinkedIn:** [Maruffuzzman Tanvir](www.linkedin.com/in/maruffuzzmantanvir)  
+💼 **LinkedIn:** [Maruffuzzman Tanvir](https://www.linkedin.com/in/maruffuzzmantanvir/)  
 🐦 **Twitter/X:** [MZ Tanvir](https://x.com/maruffuzzman)  
 
 **Feedback?** I’d love to hear your thoughts! 😊  
